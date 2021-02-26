@@ -1,6 +1,8 @@
 # import the random function
 import random
 
+from random
+
 # create statement for the user
 player = input("Enter a choice (rock, paper, scissors): ")
 # create statement for the player choices
